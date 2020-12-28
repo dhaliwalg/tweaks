@@ -1,4 +1,11 @@
 This is the FIRST iOS jailbreak tweak I have made. The functionality is very rudimentary, it simply hides the dock on all iOS devices.
 The package can be installed through the deb file, if your device is jailbroken. Otherwise, feel free to look at the code!
 
+No toggles or options. You can uninstall from Sileo, Zebra, Cydia.
+
+INSTALLATION PROCESS:
+Download the deb file from the github page
+Locate the deb in your iPhone system
+Install deb through whatever file browser you're using. (Filza suggested).
+
 REPOSITORY COMING SOON!
