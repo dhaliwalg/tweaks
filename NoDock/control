@@ -2,7 +2,7 @@ Package: com.watervapor.nodock
 Name: NoDock
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: This tweak hides the dock. No configuration options!
 Maintainer: vapor
 Author: vapor
 Section: Tweaks
