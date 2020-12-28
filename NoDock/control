@@ -1,0 +1,9 @@
+Package: com.watervapor.nodock
+Name: NoDock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: vapor
+Author: vapor
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
